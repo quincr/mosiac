@@ -1,2 +1,2 @@
 # mosiac
- Just a little utility library right?
+ A collection of utilities to help with pygame game development.
